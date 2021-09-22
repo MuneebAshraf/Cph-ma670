@@ -2,6 +2,8 @@ class DiceCup { //<>//
   //declare private vars
   private ArrayList<Die> cup;
   private ArrayList<Die>[] CupLines;
+  
+  
   //constructor
   public DiceCup () {
     cup = new ArrayList<Die>();
@@ -22,6 +24,8 @@ class DiceCup { //<>//
   //method to draw each Die in cup-line
   void draw(int x, int y, int dieSize) {
 
+    
+      
     //declare rows
     //rows will alwys be 6 as each row represent possible number of eyes (min 1, max 6)
     int rows = 6;
