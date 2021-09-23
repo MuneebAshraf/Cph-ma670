@@ -1,15 +1,14 @@
 public class Datamatik {
     static Student[] students = new Student[]
-            {   new Student("Muneeb",26,false,"B4"),
-                new Student("Malene",29,true,"B2"),
+            {   new Student("Muneeb",26,false,"B4"), new Student("Malene",34,true,"B2"),
                 new Student("Mia",24,true,"B3"),
                 new Student("Kim",27,false,"B4"),
-                new Student("Jens",60,false,"B4"),
-                new Student("Long",28,false,"B2"),
+                new Student("Jens",69,false,"B4"),
+                new Student("Long",29,false,"B2"),
                 new Student("Casper F",25,false,"B3"),
                 new Student("Phil",27,false,"B2"),
-                new Student("Denis",34,false,"B3"),
-                new Student("Martin",24,false,"B2")   };                //5.a array of students
+                new Student("Denis",39,false,"B3"),
+                new Student("Martin",28,false,"B2")   };                //5.a array of students
 
     public static void main(String[] args) {
         System.out.println(findStudentName(Integer.parseInt(args[0]), students));         //5.b function that takes int from args and array of students

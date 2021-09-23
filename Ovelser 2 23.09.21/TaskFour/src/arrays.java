@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class arrays {
 
     public static void main(String[] args) {
@@ -8,6 +11,8 @@ public class arrays {
         printStringArray(stringArray);
         printSumOfArray(intArray);
         printAvgOfArray(intArray);
+
+       sortArray(intArray);                                                         //4.i sort array of ints
     }
 
     public static void printStringArray(String[] stringArray){                       //4.b print each element in array
@@ -32,4 +37,14 @@ public class arrays {
         System.out.println(avg);
     }
 
+    public static int[] sortArray(int[] unSorted) {
+        for (int i : unSorted){
+            System.out.println(i);
+        }
+        Arrays.sort(unSorted);
+        for (int i : unSorted){
+            System.out.println(i);
+        }
+        return unSorted;
+    }
 }
