@@ -123,7 +123,7 @@ public class Main
             }
         }
         mostUsedLetter = mostUsed;
-        System.out.println(letters[indexOfMostUsed] + " has been used " + mostUsed);
+       // System.out.println(letters[indexOfMostUsed] + " has been used " + mostUsed);
     }
 
     //task 4 - method that prints the most used letter in all of data.txt
