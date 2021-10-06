@@ -1,0 +1,11 @@
+@startuml
+Main "1" *-- "many" BankAccount : has
+Main "1" *-- "1" UI : has
+Main : ArrayList<BankAccount> accounts
+
+BankAccount : float balance
+BankAccount : String owner
+BankAccount : int stalkingCounter
+
+@enduml
+
