@@ -1,5 +1,5 @@
 public class BankAccount{
-    private float balance = 30000;
+    private int balance = 30000;
     private String owner;
     private int stalkingCounter = 0;
 
@@ -7,7 +7,7 @@ public class BankAccount{
      * Konstruktor for klassen BankAccount
      * @param owner
      */
-    public BankAccount(String owner, float balance){
+    public BankAccount(String owner, int balance){
        this.owner = owner;
        this.balance = balance;
     }
@@ -37,9 +37,9 @@ public class BankAccount{
     }
 
 
-    public float getBalance() {
+    public int getBalance() {
         this.stalkingCounter++;// Den her linje skal demonstrere en af de ting jeg som programmør kan få ud af begrænse adgangen klassens felter (bemærk feltet 'balance' i toppen af klassen er private).
-                               // Hver gang instansens saldo skal 'ses' udefra, skal det ske gennem denne metode og jeg kan så tilføje lidt  kode
+                               // Hver gang instansens balance attribut skal 'ses' udefra, skal det ske gennem denne metode og jeg kan så tilføje lidt  kode der kører hver gang dette sker
                               // I dette eksempel bliver en 'stalkingCounter' talt op. M.a.o.: jeg tracker data om udefrakommende interesse i feltet saldo.
         return balance;
     }

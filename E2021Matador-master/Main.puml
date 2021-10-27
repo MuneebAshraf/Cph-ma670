@@ -1,7 +1,9 @@
 @startuml
 Main "1" *-- "many" BankAccount : has
 Main "1" *-- "1" UI : has
-Main : ArrayList<BankAccount> accounts
+Main : static ArrayList<BankAccount> accounts
+Main : readGameData()
+
 
 BankAccount : float balance
 BankAccount : String owner

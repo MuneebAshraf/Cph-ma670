@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43716d63-89b1-4a70-bcd8-c0318fdcf55f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/AggregationAndCompositionSelfStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/ArrayListExercise/ArrayListExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/ArrayListExercise/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E2021Matador-master/Matador.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E2021Matador-master/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E2021Matador-master/usecases.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DogKennel/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DogKennel/src/DogKennel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DogKennel/src/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculateVat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComputeVAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/Main.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../E2021Matador-master/Main.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../E2021Matador-master/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../E2021Matador-master/src/UI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zSsNKqMhAdsbfYZ6QB3FSp653k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewMain">
+    <configuration name="ComputeVAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputeVAT" />
+      <module name="ComputeVAC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogKennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogKennel" />
+      <module name="DogKennel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewMain" />
+      <module name="ComputeVAC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewMain" />
+        <item itemvalue="Application.ComputeVAT" />
+        <item itemvalue="Application.DogKennel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43716d63-89b1-4a70-bcd8-c0318fdcf55f" name="Changes" comment="" />
+      <created>1634152782353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634152782353</updated>
+      <workItem from="1634152784365" duration="493000" />
+      <workItem from="1634198646274" duration="4041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
