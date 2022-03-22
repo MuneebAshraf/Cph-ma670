@@ -5,338 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbc592eb-8504-4c51-835b-57d489539b06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../1. semester/AggregationAndCompositionSelfStudy/.idea/AggregationAndCompositionSelfStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/AggregationAndCompositionSelfStudy/ArrayListExercise/ArrayListExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/E2021Matador-master/Bank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/E2021Matador-master/src/E2021Matador-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Oberverables/Oberverables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 1 09.09.21/Task2/Task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 2 23.09.21/TaskFive/TaskFive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 2 23.09.21/TaskFour/.idea/TaskFour.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 2 23.09.21/TaskOne/javaTerminal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 2 23.09.21/TaskSix/.idea/TaskSix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 2 23.09.21/TaskThree/TaskThree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 2 23.09.21/TaskTwo/TaskTwoA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 3 30.09.21/Task1234/.idea/Task1234.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 4 14.10.21/ComputeVAC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/Ovelser 4 14.10.21/DogKennel/DogKennel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/SP2/SP2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/datastrukture/datastrukture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/dbtest/dbtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/eksamen 1 semester/eksamen 1 semester.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/excercise41/Task1/.idea/Task1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/excercise41/Task2/Task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/excercise41/Task3/Task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/excercise41/excercise41.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/gammeltEksamenssaet/gammeltEksamenssaet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/miniProgram/miniProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/ordlegExam/ordlegExam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. semester/sortingAlg/sortingAlg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DbFusk/src/main/java/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/sportsclub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/sportsclub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/src/main/java/entities/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/src/main/java/persistence/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/src/main/java/persistence/MemberMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/src/main/resources/sportsclub.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dat2-flow3-sportsclub/src/main/resources/sportsclub.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/AggregationAndCompositionSelfStudy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/ArrayListExercise/ArrayListExercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/ArrayListExercise/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AggregationAndCompositionSelfStudy/out/production/ArrayListExercise/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/Bank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/Main.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/Matador.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/BankAccount 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Brewery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Business.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Chance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Configure Board.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Consequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Main 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Plot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Prison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Property.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/ShippingLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Start.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/Tax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/UI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/UI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/data 2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/out/production/Bank/fields.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Brewery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Business.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Chance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Configure Board.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Consequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Plot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Prison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Property.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/ShippingLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Start.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/Tax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/UI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/src/fields.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E2021Matador-master/usecases.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mousetrail/mousetrail_1_0/mousetrail_1_0.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/out/production/Task2/Main$person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/out/production/Task2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task2/src/person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task3/Task3_traffic/Task3_traffic.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task4/Task4/Task4.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task5/sketch_210908a/sketch_210908a.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task6/sketch_6a/sketch_6a.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task6/sketch_6b/sketch_6b.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 1 09.09.21/Task7/sketch_7ab/sketch_7ab.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/TaskFive.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/src/Datamatik.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFive/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/TaskFour.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/src/arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskFour/src/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/javaTerminal.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskOne/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/TaskSix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/src/Oops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskSix/src/Oops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/TaskThree.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/src/Datamatik.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskThree/src/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/TaskTwoA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 2 23.09.21/TaskTwo/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/Task1234.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/out/production/Task1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/out/production/Task1/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/out/production/Task1234/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/out/production/Task1234/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 3 30.09.21/Task1234/src/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/ComputeVAC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/DogKennel/DogKennel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/DogKennel/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/DogKennel/src/DogKennel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/DogKennel/src/Owner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/ComputeVAC/CalculateVat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/ComputeVAC/ComputeVAT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/ComputeVAC/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/ComputeVAC/Dialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/ComputeVAC/NewMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/ComputeVAC/View.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/DogKennel/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/DogKennel/DogKennel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/out/production/DogKennel/Owner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/src/CalculateVat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/src/ComputeVAT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/src/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/src/Dialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/src/NewMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ovelser 4 14.10.21/src/View.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP1/dice/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP1/dice/dice.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP1/dice/diceCup.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP1/dice/main.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/SP2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/out/production/SP2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/out/production/SP2/DieselCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/out/production/SP2/ElCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/out/production/SP2/Garage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/out/production/SP2/GasCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/out/production/SP2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/src/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/src/DieselCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/src/ElCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/src/Garage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/src/GasCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SP2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/.idea/Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/out/production/Task1/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/out/production/Task1/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/out/production/Task1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/src/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/src/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task2/Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task2/src/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task2/src/Room.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task3/Task3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task3/src/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/Task3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/excercise41.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/out/production/Task2/Building.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/out/production/Task2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/out/production/Task2/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/out/production/Task3/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excercise41/out/production/Task3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/gammeltEksamenssaet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/out/production/gammeltEksamenssaet/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/out/production/gammeltEksamenssaet/Terning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/out/production/gammeltEksamenssaet/Terningspil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/src/Terning.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gammeltEksamenssaet/src/Terningspil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/miniProgram.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/out/production/miniProgram/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniProgram/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/ordlegExam.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/out/production/ordlegExam/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/out/production/ordlegExam/Ordleg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordlegExam/src/Ordleg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quick challenge 23:11/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/out/production/sortingAlg/Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/sortingAlg.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sortingAlg/src/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,6 +30,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -370,10 +45,16 @@
       <option name="presentableId" value="Default" />
       <updated>1646956764046</updated>
       <workItem from="1646956766418" duration="310000" />
+      <workItem from="1646990650630" duration="1548000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
