@@ -32,9 +32,9 @@ ${item.value.navn}  : ${item.value.saldo}
 
 <form action="LogIn">
     <label for="fname">angiv navet på kontohaver:</label><br>
-    <input type="text" id="fname" name="navn" value="valborg"><br>
+    <input type="text" id="fname" name="navn" value="long"><br>
     <label for="lname">skriv kode:</label><br>
-    <input type="text" id="lname" name="koden" value="Doe"><br><br>
+    <input type="text" id="lname" name="koden" value="1"><br><br>
     <input type="submit" value="log in">
 </form>
 

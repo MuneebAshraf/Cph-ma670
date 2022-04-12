@@ -31,12 +31,17 @@ public class Konto
 
     public int indsæt(int i)
     {
-
-
         if (i > 0) {
             saldo = saldo + i;
         }
 
+        return saldo;
+    }
+
+    public int hæv(int i) {
+        if (i > 0) {
+            saldo = saldo - i;
+        }
         return saldo;
     }
 }

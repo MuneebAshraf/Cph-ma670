@@ -19,7 +19,7 @@ public class TransaktionServlet extends HttpServlet
         int amount = 0;
         HttpSession session = request.getSession();
 
-        String beløb = request.getParameter("beløb");
+        String beløb = request.getParameter("deposit");
         log("beløbet er "  + beløb);
 
         try
@@ -29,12 +29,37 @@ public class TransaktionServlet extends HttpServlet
         {
             String fejl = "Beløbet skal være et tal";
             request.setAttribute("fejl", fejl);
-            request.getRequestDispatcher("WEB-INF/Brugerside.jsp").forward(request,response);
+            request.getRequestDispatcher("WEB-INF/BrugerSide.jsp").forward(request,response);
         }
 
         Konto konto = (Konto) session.getAttribute("konto");
         konto.indsæt(amount);
         session.setAttribute("konto", konto);
-        request.getRequestDispatcher("WEB-INF/Brugerside.jsp").forward(request,response);
+        request.getRequestDispatcher("WEB-INF/BrugerSide.jsp").forward(request,response);
+    }
+
+    @Override
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
+    {
+        int amount = 0;
+        HttpSession session = request.getSession();
+
+        String beløb = request.getParameter("withdraw");
+        log("beløbet er "  + beløb);
+
+        try
+        {
+            amount = Integer.parseInt(beløb);
+        } catch (NumberFormatException e)
+        {
+            String fejl = "Beløbet skal være et tal";
+            request.setAttribute("fejl", fejl);
+            request.getRequestDispatcher("WEB-INF/BrugerSide.jsp").forward(request,response);
+        }
+
+        Konto konto = (Konto) session.getAttribute("konto");
+        konto.hæv(amount);
+        session.setAttribute("konto", konto);
+        request.getRequestDispatcher("WEB-INF/BrugerSide.jsp").forward(request,response);
     }
 }
